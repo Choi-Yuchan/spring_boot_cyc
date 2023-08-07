@@ -8,6 +8,8 @@ public class SpringBootCycHelloApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCycHelloApplication.class, args);
+		
+		
 	}
 
 }
