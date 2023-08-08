@@ -15,4 +15,11 @@ public class HomeController {
 	public String hello() {
 		return "Hello~~~!";
 	}
+	
+	@GetMapping("/home")
+	public String home1() {
+		return "Here is home";
+	}
+
+	
 }
